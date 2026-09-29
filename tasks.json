@@ -1,0 +1,9 @@
+[
+    {
+        "task_id": 1,
+        "task_title": "Upload project on GitHub",
+        "task_priority": "High",
+        "task_colour": "Red",
+        "task_completed": true
+    }
+]
