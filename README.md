@@ -2,6 +2,10 @@
 
 A modular desktop productivity tool built with Python and Tkinter, designed to manage daily tasks with priority sorting, custom color categorization, and persistent storage.
 
+**Role:** Lead Analyst & Primary Developer (8-Person Group Project)
+* **Project Management & System Analysis:** Managed task allocation, gathered requirements based on stakeholder feedback, and designed system architecture.
+* **Core Software Engineering:** Designed the complete UI layout in Tkinter, implemented modular file-handling logic, and wrote the majority of the backend application code.
+
 ## Key Features
 * **Task Management:** Create, edit, and delete tasks with custom titles, priorities (High, Medium, Low), and color themes.
 * **Smart Sorting:** Automatically sort tasks by priority order or alphabetically by title.
